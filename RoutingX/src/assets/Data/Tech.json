@@ -1,0 +1,8 @@
+[
+    {"Technology":"Angular", "Books":"Angular the complete guide"},
+    {"Technology":"Node JS", "Books":"Nodejs design pattern"},
+    {"Technology":"Android", "Books":"The Big Nerd Ranch guide"},
+    {"Technology":"Big Data", "Books":"Too big to ignore"},
+    {"Technology":"Artifical Intelligence", "Books":"AI a Morden Appraoch"}
+
+]
